@@ -16,7 +16,21 @@ da aplicação.
 Ao rodar a aplicação, atente-se a porta que está sendo utilizada. Caso necessário, faça a alteração.
 
 
+Para visualizar rapidamente e entender o que está sendo feito sem precisar rodar o código: 
+
 Visão inicial da primeira pagina (Uso geral)
 <img src="/Visao1.png">
+
+Visao da pagina de testes rodando um teste com 50 requisicoes: 
+<img src="/teste_estatis.png">
+
+Visao da consulta do termo "ONU", feito com os dados carregados parcialmente devido ao custo:
+<img src="/busca.png">
+
+Visão do envio de arquivos e de conteudo via caixa de entrada:
+<img src="/envio_texto.png"> <img src="/envio_arquivo.png">
+
+Exclusão de arquivo enviado: 
+<img src="/exclusao_arquivo.png">
 
 
