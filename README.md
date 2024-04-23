@@ -1,4 +1,5 @@
 A linguagem escolhida para realizar o trabalho foi Python.
+Servidor, cliente e banco de dados estão disponiveis dentro da pasta Trabalho SD
 Esta é a primeira entrega do trabalho contendo as seguintes funcionalidades: 
 
 1. Fazer o upload de arquivos que serão indexados para posterior busca;
@@ -13,3 +14,9 @@ Para construir o Front-end, visando uma maior usabilidade, foi utilizado o strea
 da aplicação.
 
 Ao rodar a aplicação, atente-se a porta que está sendo utilizada. Caso necessário, faça a alteração.
+
+
+Visão inicial da primeira pagina (Uso geral)
+<img src="/visao1">
+
+
