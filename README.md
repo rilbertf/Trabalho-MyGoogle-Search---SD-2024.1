@@ -17,6 +17,6 @@ Ao rodar a aplicação, atente-se a porta que está sendo utilizada. Caso necess
 
 
 Visão inicial da primeira pagina (Uso geral)
-<img src="/visao1">
+<img src="/visao1.png">
 
 
